@@ -1,3 +1,1 @@
-# hello-worl
-
-Hi there
+# hello-world
